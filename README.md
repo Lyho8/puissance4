@@ -1,2 +1,3 @@
-# puissance4
-Puissance 4 en AngularJS
+npm install
+bower install
+npm start
